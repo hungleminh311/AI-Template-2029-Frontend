@@ -1,0 +1,23 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "FooterFourColumnWithCompanyMission"
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "AI Generated Header",
+  "subtitle": "AI Generated Subtitle"
+}
